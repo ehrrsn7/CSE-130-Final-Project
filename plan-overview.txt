@@ -1,5 +1,5 @@
 <a href="https://byui.instructure.com/courses/110462/files/40676718/preview" style="color: rgba(0, 114, 167, 0.8);">[link: final exam instructions found on byui]</a><br>
-<a href="https://www.github.com/ehrrsn7/CSE-Final-Project/" style="color: rgba(0, 114, 167, 0.8);">[link: Source Code for this website]</a><br>
+<a href="https://github.com/ehrrsn7/CSE-130-Final-Project" style="color: rgba(0, 114, 167, 0.8);">[link: Source Code for this website]</a><br>
 <br>
 <br>
 From prompt:<br>
