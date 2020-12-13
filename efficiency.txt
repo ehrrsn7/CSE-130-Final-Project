@@ -5,9 +5,11 @@ Time efficiency = O(n²)<br>
 <br>
 Variables declared: 5<br>
 (2 int variables and 3 dynamic lists)<br><strong>
-stock_list [ ] (function parameter)<br>
-records [ ]<br>
-i (int)<br>
-j (int)<br>
-stock [ ]<br>
+<ul>
+<li>stock_list [ ] (function parameter)</li>
+<li>records [ ]</li>
+<li>i (int)</li>
+<li>j (int)</li>
+<li>stock [ ]</li>
+<ul>
 <br></strong>

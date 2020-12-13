@@ -1,0 +1,3 @@
+<strong>Assert:</strong><br>
+<li>In both FOR-EACH loops, place assert on each iteration to verify that <strong>i < length ( list [ ] )</strong>. (exit loop if false) [verified]</li>
+<li>Place assert to double-check that <strong>records [ ]</strong> still exists (or still in scope). [verified]</li>

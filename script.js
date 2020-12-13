@@ -16,11 +16,10 @@ function embedHTML(filename, el) {
         })
 }
 
-var planOverviewEl = document.getElementById("plan-overview")
-embedText("plan-overview.txt", planOverviewEl)
-
-var metricEfficiencyEl = document.getElementById("metric-efficiency")
-embedText("metric-efficiency.txt", metricEfficiencyEl)
+embedText("plan-overview.txt", document.getElementById("plan-overview"))
+embedText("efficiency.txt", document.getElementById("efficiency"))
+embedText("trace.txt", document.getElementById("trace"))
+embedText("assert.txt", document.getElementById("assert"))
 
 /*
 var structureChartEl = document.getElementById("stonks-structure-chart")
