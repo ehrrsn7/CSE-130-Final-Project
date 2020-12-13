@@ -3,14 +3,13 @@
 <br>
 From prompt:<br>
 <br>
+You are given a file with stock prices. You are to search this file for the best time to buy and the best time to sell. The program will then display the amount of money made when 100 shares were bought and sold. Of course, we want this design to be as efficient as possible...<br>
 <br>
-You are given a file with stock prices. You are to search this file <br>for the best time to buy and the best time to sell. The program <br>will then display the amount of money made when 100 shares were <br>bought and sold. Of course, we want this design to be as efficient <br>as possible...<br><br>
-<br><br>
 Please do the following:<br>
 <br>
-• Create a representation of a solution to this problem using any <br>combination of design tools presented this semester<br>
- • Evaluate the quality of your design using appropriate metrics <br>presented this semester<br>
-• Validate the design by applying appropriate quality tools or <br>techniques<br>
+• Create a representation of a solution to this problem using any combination of design tools presented this semester<br>
+• Evaluate the quality of your design using appropriate metrics presented this semester<br>
+• Validate the design by applying appropriate quality tools or techniques<br>
 <br>
 ----+----<br>
 Design Elements:<br>
