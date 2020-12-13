@@ -1,1 +1,5 @@
-Hello guys!<br>
+<a href="https://byui.instructure.com/courses/110462/files/40676718/preview">[final exam instructions found on byui]</a><br>
+<br>
+<br>
+PSEUDOCODE:<br>
+hello

@@ -91,20 +91,14 @@ img {
 }
 
 
-/*
- * Frosted Windowpane Effect
- */
+/* */
 
-.frosted {
+div {
+    background-color: white;
+    border-radius: .5rem;
     /* fade-in transition */
     animation-name: fadein;
     animation-duration: 1s;
-    /* frosted look */
-    background-color: rgba(255, 255, 255, 0.4);
-    backdrop-filter: blur(8px);
-    height: fit-content;
-    box-shadow: 0 0 2rem 0 rgba(0, 0, 0, .5);
-    border-radius: .5rem;
     /* spacing around box */
     margin: 1em;
     /* spacing within box */
@@ -112,6 +106,20 @@ img {
     padding-right: 2rem;
     padding-top: .25rem;
     padding-bottom: 2rem;
+    max-width: 50em;
+}
+
+
+/*
+ * Frosted Windowpane Effect
+ */
+
+.frosted {
+    /* frosted look */
+    background-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(8px);
+    height: fit-content;
+    box-shadow: 0 0 2rem 0 rgba(0, 0, 0, .5);
     /* tutorial: https://webdesign.tutsplus.com/tutorials/how-to-create-a-frosted-glass-effect-in-css--cms-32535 */
 }
 
@@ -162,10 +170,10 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
     html {
-        color: rgb(240, 240, 240);
         background-color: rgb(20, 25, 25);
     }
     .frosted {
+        color: rgb(240, 240, 240);
         background-color: rgba(0, 0, 0, 0.8);
     }
     #frosted-header {
