@@ -1,5 +1,34 @@
 <a href="https://byui.instructure.com/courses/110462/files/40676718/preview">[final exam instructions found on byui]</a><br>
 <br>
 <br>
-PSEUDOCODE:<br>
-hello
+From prompt:<br>
+<br>
+<br>
+You are given a file with stock prices. You are to search this file <br>for the best time to buy and the best time to sell. The program <br>will then display the amount of money made when 100 shares were <br>bought and sold. Of course, we want this design to be as efficient <br>as possible...<br><br>
+<br><br>
+Please do the following:<br>
+<br>
+• Create a representation of a solution to this problem using any <br>combination of design tools presented this semester<br>
+ • Evaluate the quality of your design using appropriate metrics <br>presented this semester<br>
+• Validate the design by applying appropriate quality tools or <br>techniques<br>
+<br>
+----+----<br>
+Design Elements:<br>
+----+----<br>
+Tools:<br>
+Flowchart<br>
+Pseudocode<br>
+<br>
+Metrics:<br>
+Efficiency<br>
+Maintainability<br>
+<br>
+Quality Checks:<br>
+Assert<br>
+Trace<br>
+<br>
+Strategies:<br>
+Decisions (if/else, while, etc)<br>
+Collections (list, array, tuple, dict, obj, etc.)<br>
+Loops (for, while, etc.)<br>
+<br>

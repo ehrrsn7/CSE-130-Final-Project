@@ -19,8 +19,10 @@ function embedHTML(filename, el) {
 var planOverviewEl = document.getElementById("plan-overview")
 embedText("plan-overview.txt", planOverviewEl)
 
+/*
 var structureChartEl = document.getElementById("stonks-structure-chart")
 embedHTML("Stonks-Structure-Chart.html", structureChartEl)
 
 var flowchartEl = document.getElementById("stonks-flowchart")
 embedHTML("Stonks-Flowchart.html", flowchartEl)
+*/
