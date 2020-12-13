@@ -154,11 +154,11 @@ a {
     font-weight: bold;
     color: rgb(0, 0, 0);
     text-decoration: none;
-    transition: color 0.5s ease;
 }
 
 a:hover {
     color: rgb(78, 78, 78);
+    transition: color 0.5s ease;
 }
 
 .big-link {
@@ -201,10 +201,10 @@ a:hover {
         background-color: white;
     }
     a {
-        color: rgb(172, 172, 172);
+        color: white;
     }
     a:hover {
-        color: white;
+        color: rgb(255, 216, 133);
     }
 }
 

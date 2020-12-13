@@ -19,6 +19,9 @@ function embedHTML(filename, el) {
 var planOverviewEl = document.getElementById("plan-overview")
 embedText("plan-overview.txt", planOverviewEl)
 
+var metricEfficiencyEl = document.getElementById("metric-efficiency")
+embedText("metric-efficiency.txt", metricEfficiencyEl)
+
 /*
 var structureChartEl = document.getElementById("stonks-structure-chart")
 embedHTML("Stonks-Structure-Chart.html", structureChartEl)

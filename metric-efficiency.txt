@@ -1,0 +1,13 @@
+algorithmic efficiency of get stonks(…)<br>
+<br>
+Nested FOR loop:<br>
+Time efficiency = O(n²)<br>
+<br>
+Variables declared: 5<br>
+(2 int variables and 3 dynamic lists)<br><strong>
+stock_list [ ] (function parameter)<br>
+records [ ]<br>
+i (int)<br>
+j (int)<br>
+stock [ ]<br>
+<br></strong>
